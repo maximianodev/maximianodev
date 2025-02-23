@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá, sou o Lucas! 👨🏻‍💻
 
-<!--
-**maximianodev/maximianodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor web com experiência em criação de sites e APIs. Apaixonado por tecnologia e sempre em busca de novos desafios. Focado em entregar soluções eficientes e de alta qualidade.
 
-Here are some ideas to get you started:
+## Tech
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tenho experiência com Backend e Frontend, e domino as seguintes tecnologias: Java, Go, Python e JavaScript (minha linguagem principal)
+
+Atualmente estou estudando AWS (serviços como EC2, S3 e Lambda) para entender como grandes aplicações são hospedadas.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maximianodev&theme=dark)](https://github.com/maximianodev)
+
+## Curiosidades ✨
+
+- 👨🏻‍👩🏻‍👧🏻 Pai da Mariana e esposo da Stefani
+- 👨🏻‍💻 Apaixonado por tecnologia(Programação). Meu primeiro emprego como Dev foi em 2019
+- 🚗 Gosto de viajar para conhecer novas culturas e sou apaixonado por carros.
+- 🍟 Meu primeiro emprego foi no McDonald's(Já fiquei na chapa)
+
