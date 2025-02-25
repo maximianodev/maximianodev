@@ -4,7 +4,7 @@ Desenvolvedor web com experiência em criação de sites e APIs. Apaixonado por 
 
 ## Tech
 
-Tenho experiência com Backend e Frontend, e domino as seguintes tecnologias: Java, Go, Python e JavaScript (minha linguagem principal)
+Tenho experiência com Backend e Frontend, domino as seguintes tecnologias: Java, Go, Python e JavaScript(minha linguagem principal)
 
 Atualmente estou estudando AWS (serviços como EC2, S3 e Lambda) para entender como grandes aplicações são hospedadas.
 
